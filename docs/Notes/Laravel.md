@@ -1,0 +1,1 @@
+Agar Laravelda php artisan migrate `--pretend` deb yozsangiz u migratsiyalarni ishga tushuradi va har bir migrasiya qanday SQL komanda bajarishini ham ko'rsatadi. Bu SQLni debag qilishda qo'l keladi.

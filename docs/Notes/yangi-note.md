@@ -1,1 +1,0 @@
-Endi doman deploy bo'lgandan keyin chiqib qolishi kerak
